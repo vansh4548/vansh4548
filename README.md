@@ -1,39 +1,85 @@
-# Hi there, I'm [Your Name]! 👋
+# 💻 Hello World, I'm Vansh Garg! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshgarg7017)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgarg7017@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshgarg7017)
+![Profile Views](https://komarev.com/ghpvc/?username=vanshgarg7017&color=blue&style=flat-square)
 
-I'm a **[Your Role]** passionate about **[...]**.
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[project]**
-- 🌱 I’m learning **[tech/topic]**
-- 👯 I’m looking to collaborate on **[open-source/ideas]**
-- 💬 Ask me about **[your expertise]**
-- ⚡ Fun fact: **[something interesting]**
+```java
+public class AboutMe {
+    public static void main(String[] args) {
+        String name = "Vansh Garg";
+        String role = "Java Backend Developer";
+        String education = "B.E. Computer Science @ Chandigarh University";
+        String[] skills = {
+            "Spring Boot", "Microservices", 
+            "REST APIs", "MySQL",
+            "Python", "Machine Learning"
+        };
+        
+        System.out.println("Passionate about building robust backend systems!");
+    }
+}
+```
 
-### 🛠️ My Stack
+## 🛠️ Tech Stack  
+### Languages & Frameworks  
+<p> 
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+### Tools & Platforms  
+<p> 
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/> 
+</p>
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects  
+### 1. Grocery Sales Management System  
+[GitHub](#)  
+✅ Developed with Spring Boot, React, and Machine Learning  
+✅ Implemented sales forecasting using time-series analysis  
+✅ Built RESTful APIs for inventory management  
+**Role:** Java Developer (Aug 2024 - Present)  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 2. Banking Management System  
+[GitHub](#)  
+✅ Secure transaction system with Spring Security  
+✅ MySQL database integration  
+✅ Modular microservices architecture  
+**Role:** Java Developer (Mar 2024 - Jun 2024)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+## 📊 GitHub Stats  
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshgarg7017&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgarg7017&layout=compact&langs_count=8&theme=radical"/> 
+</div>
 
-### ⚡ Recent Activity
+## 🏆 Achievements  
+🏅 Guinness World Record Holder - Largest Human Flag  
+🎖️ Selected for NBA Projects Inspection at CU Expo 2024  
+📜 Infosys Certified in Big Data & Full Stack Java  
+🥇 Kargil Topper Batch at Chandigarh University  
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #1 in [repo]
-2. 🚀 Pushed commits to [repo]
-<!--END_SECTION:activity-->
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-
-### � Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 📫 Let's Connect!  
+<p align="center"> 
+  <a href="https://linkedin.com/in/vanshgarg7017" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+  <a href="mailto:vanshgarg7017@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a> 
+  <a href="https://github.com/vanshgarg7017?tab=repositories"> 
+    <img src="https://img.shields.io/badge/My_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+  </a> 
+</p>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgarg7017&theme=radical" alt="vanshgarg7017" /> 
+</p>
